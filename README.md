@@ -6,7 +6,7 @@ The analysis focuses on understanding customer churn patterns in a dataset. Key 
 ## Key Findings:
 *	Churn Distribution: A pie chart revealed that 26.5% of customers have churned, highlighting the need for retention strategies.
 *	Customer Attributes & Churn:
-*Senior citizens were found to have a higher churn rate (41.3%) compared to younger customers (23.6%).
+* Senior citizens were found to have a higher churn rate (41.3%) compared to younger customers (23.6%).
 *	Customers with a tenure of less than 12 months have a churn rate of 45.6%, while those with longer tenure show a significantly lower churn rate of 15.2%.
 *	Monthly charges appear to have a strong correlation with churn; customers with charges above $70/month have a 37.8% churn rate, compared to only 15.4% for those below this threshold.
 * Service-Related Insights:
